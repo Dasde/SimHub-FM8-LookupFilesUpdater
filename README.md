@@ -6,7 +6,7 @@ Plugin for SimHub. Updates FM8 lookup files with the up to date versions from Fo
 Update : 
 **You don't need this plugin anymore. That was a temporary fix.**
 
-Now [wotever](https://github.com/SHWotever)  (dev of Simhub) directly pulls the files from the repos at each new version of Simhub.
+Now [Wotever](https://github.com/SHWotever)  (dev of Simhub) directly pulls the files from the repos at each new version of Simhub.
 
 You can still replace the files yourself if you want the most up to date datas.
 In the install folder of Simhub there is a subfolder "LookupTables" ( SimHub\LookupTables) in that folder just replace the file FM8.CarNames.csv to update cars and the file FM8.TrackNames.csv to update tracks.
